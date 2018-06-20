@@ -22,10 +22,8 @@ a {
    text-align: center;
  }
  #featured-property p{
- margin-top:15%;
- margin-bottom:15%;
- margin-right:15%;
- margin-left:15;
+ margin:0 auto;
+
   width: 800px;
  }
 
