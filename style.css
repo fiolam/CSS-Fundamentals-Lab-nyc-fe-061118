@@ -12,6 +12,7 @@ nav {
 img {
 margin-left:15%;
 }
-nav {
-  
+a {
+  padding-left: 10px;
+  padding-right: 10px;
 }
