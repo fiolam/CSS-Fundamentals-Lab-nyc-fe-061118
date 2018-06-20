@@ -21,4 +21,8 @@ a {
    font-size:20px;
    text-align: center;
  }
- .p
+ #featured-property p{
+  text-align: center;
+ }
+ }
+ }
