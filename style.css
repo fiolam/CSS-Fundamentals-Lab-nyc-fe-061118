@@ -11,6 +11,7 @@ nav {
 }
 img {
 margin:0 auto;
+display:block;
 }
 a {
   padding-left: 10px;
