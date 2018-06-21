@@ -26,12 +26,12 @@ a {
  margin:0 auto;
  text-align: center;
   width: 800px;
- }
-#details {
-  display:block;
+
 }
 #details div{
+  display: block;
   float:left; 
   width:25%;
   background: red;
+  text-align: center;
 }
